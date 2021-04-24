@@ -6,7 +6,7 @@
 This Tableau dashboard is prepared for the Bangalore restaurants that accept Zomato Orders. This dashboard shows the glimpse of locations that have highest number of zomato Orders, Locations where customers spend more on food, where booking reservation are done. 
 
 You can directly refer to my Tableau Public profile to view as well. 
-https://public.tableau.com/profile/vijay.rodrigues#!/
+https://public.tableau.com/profile/vijay.rodrigues#!/vizhome/ZomatoBangaloreRestaurants_16192837257910/Dashboard1?publish=yes
 
 
 ## Installation and Tools Used
