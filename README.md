@@ -1,25 +1,69 @@
-# Zomato_Bangalore_Restaurants
+# 📊 Zomato Bangalore Restaurants – Tableau Dashboard
+
+A comprehensive Tableau dashboard that visualizes restaurant-level insights from Zomato’s Bangalore dataset. This dashboard reveals trends in online delivery, customer spending, popular dining areas, and booking reservations across top locations.
+
+---
+
+## 📷 Dashboard Preview
+
+![Zomato Dashboard](https://github.com/user-attachments/assets/49541183-0d6a-4b07-9c32-20bbc20bf30e)
+
+*Make sure to replace the path with your image location*
+
+---
+
+## 🔗 Live Dashboard
+
+👉 **[View on Tableau Public]([https://public.tableau.com/app/profile/your-username/viz/zomato-bangalore-dashboard](https://public.tableau.com/app/profile/vijay.rodrigues/viz/ZomatoBangaloreRestaurants_16192837257910/Dashboard1?publish=yes))**  
+*Replace this link with your actual Tableau Public dashboard URL*
+
+---
+
+## 🔍 What’s Inside?
+
+This dashboard helps answer key business questions:
+
+- 📍 **Which locations have the most restaurants accepting Zomato orders?**  
+- 💸 **Where do customers spend the most?**  
+- 🚚 **Which areas offer the most online deliveries?**  
+- 📅 **Top restaurants that support table reservations?**
+
+---
+
+## 💡 Key Insights
+
+- **JP Nagar**, **Whitefield**, and **Indiranagar** lead in Zomato order support  
+- **Marathahalli** sees the highest customer spend among 2-member groups  
+- **BTM** dominates online delivery services by volume  
+- **1Q1** and **154 Breakfast Club** top the list for table bookings  
+
+---
+
+## 🛠️ Tools Used
+
+| Tool     | Purpose                       |
+|----------|-------------------------------|
+| Tableau  | Data visualization and dashboarding  
+| Zomato Dataset (CSV) | Source restaurant data  
+| Excel/Sheets | Basic preprocessing  
 
 
-## Description
 
-This Tableau dashboard is prepared for the Bangalore restaurants that accept Zomato Orders. This dashboard shows the glimpse of locations that have highest number of zomato Orders, Locations where customers spend more on food, where booking reservation are done. 
+## ✅ How to View the Dashboard
 
-You can directly refer to my Tableau Public profile to view as well. 
-https://public.tableau.com/profile/vijay.rodrigues#!/vizhome/ZomatoBangaloreRestaurants_16192837257910/Dashboard1?publish=yes
+1. Download this repository  
+2. Open `zomato_dashboard.twbx` in **Tableau Desktop**  
+3. Replace the dataset path if prompted  
+4. Explore insights interactively!
 
+---
 
-## Installation and Tools Used
+## 👨‍💻 Author
 
-For Tableau trial version, go to https://www.tableau.com/products/trial and select the desired version for download and register your details ( self explanatory)
+**Vijay Rodrigues**  
+🌐 [www.vijayrodrigues.com](https://www.vijayrodrigues.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/vijay-rodrigues)
 
-![tableauInstallation](https://user-images.githubusercontent.com/72039550/115949790-14edbe80-a4f5-11eb-849a-87295d1e0d7b.jpg)
+---
 
-I have used **Tableau Desktop trial version** (14 days only) but you can also download and use **Tableau Public** and files get published automatically on Tableau Public dashboard.
-
-
-
-## Result of Dashboard 
-
-![tableau_dashboard_zomato](https://user-images.githubusercontent.com/72039550/115967359-e8b35b80-a54f-11eb-9fc7-22f5e4847a2f.jpg)
-
+⭐ *If this helped you, please give the repo a star!*
