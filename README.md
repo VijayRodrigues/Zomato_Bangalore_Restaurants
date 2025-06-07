@@ -60,7 +60,7 @@ This dashboard helps answer key business questions:
 
 ## 👨‍💻 Author
 
-**Vijay Rodrigues**  
+**Vijay Ashley Rodrigues**  
 🌐 [www.vijayrodrigues.com](https://www.vijayrodrigues.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/vijay-rodrigues)
 
